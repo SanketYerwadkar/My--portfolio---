@@ -1,5 +1,8 @@
 ##Description:
 This repository contains the source code for a responsive personal portfolio website built using HTML, CSS, bootstrap and a touch of JavaScript. The portfolio website features a clean and modern design with vibrant colors and smooth animations.
+
+
+
 ##screenshot:-
 ![homepage](https://github.com/SanketYerwadkar/My--portfolio---/assets/166718210/495de42c-0955-4783-9e33-fb7f17600578)
 ![Technical skills](https://github.com/SanketYerwadkar/My--portfolio---/assets/166718210/6765447a-f2f8-4463-8b40-3131d5f11f19)
