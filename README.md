@@ -1,6 +1,6 @@
 Description:
 
-This repository contains the source code for a responsive personal portfolio website built using HTML, CSS, and a touch of JavaScript. The portfolio website features a clean and modern design with vibrant colors and smooth animations.
+This repository contains the source code for a responsive personal portfolio website built using HTML, CSS, bootstrap and a touch of JavaScript. The portfolio website features a clean and modern design with vibrant colors and smooth animations.
 
 Key Features:
 
@@ -22,4 +22,4 @@ Credits:
 The website design and code are created by Sanket Yerwadkar.
 Icons used in the project are from Iconsbox.com
 License:
-This project is licensed under the [License Name] License. See the LICENSE file for details.
+This project is licensed under the MIT License(#LICENSE). See the LICENSE file for details.
