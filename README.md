@@ -5,6 +5,7 @@ This repository contains the source code for a responsive personal portfolio web
 ![Technical skills](https://github.com/SanketYerwadkar/My--portfolio---/assets/166718210/6765447a-f2f8-4463-8b40-3131d5f11f19)
 ![professional skills](https://github.com/SanketYerwadkar/My--portfolio---/assets/166718210/d10ffab8-6047-43c0-8df9-17d82b227d0a)
 ##Key Features:
+
 ##Responsive Design: The website is fully responsive, ensuring optimal viewing and interaction experience across a wide range of devices and screen sizes.
 Navigation: A sleek navigation bar allows users to easily navigate through different sections of the website.
 Home Section: The home section welcomes visitors with a striking background image and engaging content.
